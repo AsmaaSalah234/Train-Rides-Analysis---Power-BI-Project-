@@ -52,4 +52,6 @@ Total Rides = COUNT ('Fact Transactions'[Ticket ID])
 •	The dominance of standard tickets indicates a price-sensitive market; premium ticket offerings might require additional perks to attract customers.
 •	Revenue fluctuations highlight the importance of strategic pricing and promotions to maintain consistent income.
 
-Dashboard <a href= "https://github.com/AsmaaSalah234/Train-Rides-Analysis---Power-BI-Project-/blob/main/Executive%20Dashboard.PNG">View Dashboard</a>
+# Dashboard 
+![Executive Dashboard](https://github.com/user-attachments/assets/e18629f4-fbbe-4143-ab90-5c51a00623ad)
+
