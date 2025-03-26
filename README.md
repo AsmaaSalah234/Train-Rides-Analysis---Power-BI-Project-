@@ -12,15 +12,15 @@ To derive valuable insights, I focused on the following key performance indicato
 
 # Process
 ## Data Cleaning & Preparation
-•	Removed duplicates and null values.
-•	Standardized column names for consistency.
-•	Transformed date formats for accurate time-based analysis.
+1-Removed duplicates and null values.
+2-Standardized column names for consistency.
+3-Transformed date formats for accurate time-based analysis.
 ## Data Analysis & Visualization (Power BI)
-•	Column Chart for total rides by departure station.
-•	Bar Chart to display delayed trips categorized by reasons.
-•	Pie Chart for ticket class distribution.
-•	Line Chart to analyze revenue trends over time.
-•	Tree Map to visually compare station ride counts.
+1-Column Chart for total rides by departure station.
+2-Bar Chart to display delayed trips categorized by reasons.
+3-Pie Chart for ticket class distribution.
+4-Line Chart to analyze revenue trends over time.
+5-Tree Map to visually compare station ride counts.
 ## DAX Measures Used  
 Average Delay Time = AVERAGEX ('Fact Transactions', [Delay Minutes]) 
 
