@@ -46,12 +46,12 @@ Total Rides = COUNT ('Fact Transactions'[Ticket ID])
 •	Revenue fluctuates significantly, with notable drops in March 2024, potentially due to seasonal factors.
 •	Peaks observed in February and April 2024, aligning with holidays or promotional periods.
 
+# Dashboard 
+![Executive Dashboard](https://github.com/user-attachments/assets/e18629f4-fbbe-4143-ab90-5c51a00623ad)
+
 # Final Conclusion
 •	Manchester Piccadilly and Liverpool Lime Street are key hubs; optimizing these stations' services could enhance efficiency.
 •	Weather-related delays suggest the need for better infrastructure to withstand harsh conditions.
 •	The dominance of standard tickets indicates a price-sensitive market; premium ticket offerings might require additional perks to attract customers.
 •	Revenue fluctuations highlight the importance of strategic pricing and promotions to maintain consistent income.
-
-# Dashboard 
-![Executive Dashboard](https://github.com/user-attachments/assets/e18629f4-fbbe-4143-ab90-5c51a00623ad)
 
