@@ -51,7 +51,10 @@ Total Rides = COUNT ('Fact Transactions'[Ticket ID])
 
 # Final Conclusion
 •	Manchester Piccadilly and Liverpool Lime Street are key hubs; optimizing these stations' services could enhance efficiency.
+
 •	Weather-related delays suggest the need for better infrastructure to withstand harsh conditions.
+
 •	The dominance of standard tickets indicates a price-sensitive market; premium ticket offerings might require additional perks to attract customers.
+
 •	Revenue fluctuations highlight the importance of strategic pricing and promotions to maintain consistent income.
 
