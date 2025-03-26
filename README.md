@@ -1,2 +1,4 @@
-# Train-Rides-Analysis---Power-BI-Project-
-This project analyzes train performance, ticket sales, and delays using Power BI. The dashboard provides key insights into station demand, revenue trends, and delay reasons, helping decision-makers enhance efficiency and customer experience.
+# Train-Rides-Analysis--Power-BI-Project
+## Project Overview
+The objective is to analyze train rides data, focusing on station performance, ticket sales, and revenue trends using Power BI.
+The dataset includes departure station details, delayed trip reasons, ticket class distribution, and revenue over time. The insights from this analysis can help stakeholders optimize operations and improve customer experience.
