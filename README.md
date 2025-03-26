@@ -5,22 +5,22 @@ The dataset includes departure station details, delayed trip reasons, ticket cla
 
 # Questions (KPIs)
 To derive valuable insights, I focused on the following key performance indicators (KPIs):
-1.	Total rides by departure station – Identifying the busiest stations.
-2.	Delayed trips by reason – Understanding the primary causes of delays.
-3.	Ticket sales distribution – Comparing standard vs. first-class ticket sales.
-4.	Revenue trends over time – Tracking sales performance across different periods.
+•Total rides by departure station – Identifying the busiest stations.
+•Delayed trips by reason – Understanding the primary causes of delays.
+•Ticket sales distribution – Comparing standard vs. first-class ticket sales.
+•Revenue trends over time – Tracking sales performance across different periods.
 
 # Process
 ## Data Cleaning & Preparation
-1-Removed duplicates and null values.
-2-Standardized column names for consistency.
-3-Transformed date formats for accurate time-based analysis.
+•Removed duplicates and null values.
+•Standardized column names for consistency.
+•Transformed date formats for accurate time-based analysis.
 ## Data Analysis & Visualization (Power BI)
-1-Column Chart for total rides by departure station.
-2-Bar Chart to display delayed trips categorized by reasons.
-3-Pie Chart for ticket class distribution.
-4-Line Chart to analyze revenue trends over time.
-5-Tree Map to visually compare station ride counts.
+•Column Chart for total rides by departure station.
+•Bar Chart to display delayed trips categorized by reasons.
+•Pie Chart for ticket class distribution.
+•Line Chart to analyze revenue trends over time.
+•Tree Map to visually compare station ride counts.
 ## DAX Measures Used  
 Average Delay Time = AVERAGEX ('Fact Transactions', [Delay Minutes]) 
 
