@@ -68,7 +68,8 @@ Total Rides = COUNT ('Fact Transactions'[Ticket ID])
 •	Peaks observed in February and April 2024, aligning with holidays or promotional periods.
 
 # Dashboard 
-![Executive Dashboard](https://github.com/user-attachments/assets/e18629f4-fbbe-4143-ab90-5c51a00623ad)
+![UK Train Rides Dashboard](https://github.com/user-attachments/assets/ff2419ad-7108-4a25-8c9e-6dde7440c26e)
+
 
 # Final Conclusion
 •	Manchester Piccadilly and Liverpool Lime Street are key hubs; optimizing these stations' services could enhance efficiency.
